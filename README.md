@@ -1,5 +1,5 @@
 # Proyecto02
-
+Elaborado por Allan Orellana
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
 ## Development server
